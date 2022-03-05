@@ -1,0 +1,18 @@
+.h-200{ height: 200px; }
+.mh-50{ height: 50px; }
+.h-600{ height: 600px; }
+.h-500{ height: 500px; }
+.h-250{ height: 250px; }
+.h-300{ height: 300px; }
+.h-40{ height: 40px; }
+
+.my-caption
+{
+    bottom: 180px;
+    background-color: rgba(0,0,0, 0.5);
+}
+
+.logo-icon{
+    width: 150px;
+    height: 60px;
+}
