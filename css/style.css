@@ -12,7 +12,29 @@
     background-color: rgba(0,0,0, 0.5);
 }
 
-.logo-icon{
+.logo-icon
+{
     width: 150px;
     height: 60px;
+}
+.d-header
+{
+    color: brown;
+    padding-top: 30px;
+    
+
+}
+.header-p
+{
+    
+}
+.see-all
+{
+    color: brown;
+    float: right;
+    
+}
+.card-area
+{
+    padding-top: 30px;
 }
