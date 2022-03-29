@@ -1,3 +1,9 @@
+body
+{
+    font-family: 'Bebas Neue', cursive;
+}
+
+
 .h-200{ height: 200px; }
 .mh-50{ height: 50px; }
 .h-600{ height: 600px; }
@@ -37,4 +43,13 @@
 .card-area
 {
     padding-top: 30px;
+}
+footer
+{
+    text-align: center;
+}
+
+.cp-jubaraj
+{
+    text-decoration: none;
 }
